@@ -1,15 +1,17 @@
 # Pytorch Tutorial
 
-> 2019년 5월 22일부터 시작한 딥러닝 코딩 하드 트레이닝입니다.
+## Intro
 
-[[D] What deep learning papers should I implement to learn?](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)에서 가져온 논문 리스트를 PyTorch로 구현하는 연습 repo입니다.
+[[D] What deep learning papers should I implement to learn?](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)에서 가져온 논문 리스트를 PyTorch 구현하는 연습 repo입니다.
+
+현재 각 모델은 Google Colab 또는 Kaggle 커널을 사용하여 진행할 예정이며, 모델의 구현 과정은 강의로 후에 찍을 예정입니다.
 
 ## Architectures
 
 |Title|paper|code|reference|
 |-|-|-|-|
-|AlexNet| [paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks))|
-|ZFNet| [paper](https://arxiv.org/abs/1311.2901))|
+|AlexNet|[paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)|
+|ZFNet|[paper](https://arxiv.org/abs/1311.2901)|
 |VGG16|[paper](https://arxiv.org/abs/1505.06798)|
 |ResNet|[paper](https://arxiv.org/abs/1704.06904)|
 |GoogLeNet|[paper](https://arxiv.org/abs/1409.4842)|
